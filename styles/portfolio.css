@@ -1,0 +1,317 @@
+header{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.hny{
+    color: #009ea1;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.nypc{
+    color: #020079;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+nav li{
+    list-style: none;
+}
+
+.banner{
+    padding: 300px 660px ;
+    background-image: url(../B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+main li{
+    list-style: none;
+}
+
+section{
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.ohdab{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+}
+
+.ac{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+.banner-off{
+    margin: 0 0 0 180px;
+    position: relative;
+}
+
+.banner-wel{
+    margin: auto;
+    display: flex;
+}
+
+.welcome-ban{
+    padding: 300px 660px ;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-image: url(../B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+}
+
+.pic-date{ 
+
+}
+
+.wel-ul{
+    position: absolute;
+    top: auto;
+    left: 500px;
+}
+
+.wmp{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.wel-des{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+.btn-wel{
+    color: #ffffff;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 48px;
+    background: none;
+    border: 0;
+}
+
+.pdt{
+    color: #F00;
+    text-align: center;
+   font-family: Inter;
+   font-size: 32px;
+   font-weight: 600;
+   text-transform: capitalize;
+}
+
+.date{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.d-btn{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: rgb(0, 238, 255);
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 166px;
+}
+
+.d-div{
+    background-color: #f0a5a5;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+}
+
+.tbg{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.owp{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.tbg-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.img-pic{
+    width: 424px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.rec-pic{
+    display: flex;
+    justify-content: center;
+}
+
+.reec-pic{
+    display: flex;
+    justify-content: center;
+}
+
+.sixpic{
+    margin-top: 100px;
+    align-content: center;
+}
+
+.div-email{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.email{
+    width: 150px;
+    height: 150px;;
+    margin-top: 100px;
+}
+
+.sn{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.sec-last{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background-color: rgba(255, 0, 0, 0.05);
+    justify-content: center;
+}
+
+.sn-des{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.box input{
+    width: 648px;
+    height: 72px;
+    border-radius: 50px 0 0 50px;
+    background: #FFF;
+}
+
+.box button{
+    width: 210px;
+    height: 75px;
+    border-radius: 0 50px 50px 0;
+    background: #F00;
+}
+
+.box-tex{
+    color: rgba(7, 2, 17, 0.30);
+   text-align: center;
+   font-family: Inter;
+   font-size: 18px;
+   font-weight: 400;
+}
+
+.box-sub{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.footer-sec{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin-top: 100px;
+    align-content: center;
+    justify-content: center;
+}
+
+.foot-img{
+    width: 64px;
+    height: 64px;
+    margin-left: 24px;
+}
+
+.foot-pic{
+    margin-top: 100px;
+}
+
+.rights{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
